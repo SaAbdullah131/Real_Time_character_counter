@@ -13,7 +13,7 @@ body{
     width: 400px;
     padding: 20px;
     margin:10px;
-    border-radius: 10px;
+    border-radius:15px;
     box-shadow: 0px 4px 8px rgba(0,0,0,0.3);
 
 }
@@ -25,7 +25,7 @@ body{
     font-family: sans-serif;
     padding:10px;
     box-sizing: border-box;
-    border: solid 2px darkgray;
+    border: solid 3px darkgray;
 
 }
 .counter-container{
